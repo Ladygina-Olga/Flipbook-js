@@ -3358,7 +3358,7 @@ $.findPos = findPos;
 
 $(window).ready(function() {
 
-    const scaleFactor = 1.2; // десктоп
+    const scaleFactor = 1; // десктоп
     const pageHeight = 600;
     const pageWidth = pageHeight * 0.707;
     const containerWidth = pageWidth * 2;
